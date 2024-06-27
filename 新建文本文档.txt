@@ -1,0 +1,7 @@
+这里主要是
+c++
+python
+cuda
+gtk
+qt
+duilib
